@@ -56,4 +56,3 @@ For a long time, I used toget bothered by the "position" properties in CSS. This
 - LinkedIn - [Shubham Kandpal](https://www.linkedin.com/in/shubham-kandpal-59870322a)
 - Frontend Mentor - [@Shubham-kpl](https://www.frontendmentor.io/profile/Shubham-kpl)
 - Twitter - [@Shubham27200503](https://www.twitter.com/yourusername)
-- LinkedIn - [Shubham Kandpal]
