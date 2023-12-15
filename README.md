@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion solution
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). It is a fully responsive project.
 
 ## Table of contents
 
@@ -41,7 +41,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Searching of doubts from ChatGPT
+- Media Query
 
 ### What I learned
 
